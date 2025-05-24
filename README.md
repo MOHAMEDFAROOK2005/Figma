@@ -1,5 +1,6 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:23/05/2025
+
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -33,8 +34,279 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+page1
+```
+<div class="container--0-">
+  <img src="Screenshot 2024-12-20 113237.png">
+  .container--0- {
+  position: absolute;
+  left: -943px;
+  top: -635px;
+  width: 433px;
+  height: 954px;
+  background-color: #ffffff;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-6 {
+  width: 242px;
+  height: 57px;
+  color: #000000;
+  font-size: 40px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-7 {
+  width: 260px;
+  height: 51px;
+  color: #000000;
+  font-size: 32px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-8 {
+  width: 252px;
+  height: 44px;
+  color: #000000;
+  font-size: 36px;
+  font-family: Inter, "Semi Bold";
+  font-weight: 600;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-9 {
+  width: 223px;
+  height: 39px;
+  color: #000000;
+  font-size: 32px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+```
+```
+page 2
+
+<div class="container--0-">
+ <img src="Screenshot 2024-12-20 113305.png"
+.container--0- {
+  position: absolute;
+  left: -493px;
+  top: -636px;
+  width: 429px;
+  height: 954px;
+  background-color: #ffffff;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-1 {
+  width: 338px;
+  height: 715px;
+  color: #000000;
+  font-size: 32px;
+  font-family: Inter, "Light";
+  font-weight: 300;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-2 {
+  width: 384px;
+  height: 100px;
+  color: #000000;
+  font-size: 36px;
+  font-family: Inter, "Semi Bold";
+  font-weight: 600;
+  text-align: left;
+  vertical-align: top;
+}
+```
+```
+page3
+
+<div class="container--0-">
+<img src="Screenshot 2024-12-20 113332.png">
+.container--0- {
+  position: absolute;
+  left: -45px;
+  top: -656px;
+  width: 458px;
+  height: 968px;
+  background-color: #1e1e1e;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-1 {
+  width: 339px;
+  height: 29px;
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter, "Semi Bold";
+  font-weight: 600;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-3 {
+  width: 240px;
+  height: 43px;
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-5 {
+  width: 99px;
+  height: 48px;
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-8 {
+  width: 143px;
+  height: 29px;
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-10 {
+  width: 214px;
+  height: 50px;
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-12 {
+  width: 254px;
+  height: 29px;
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-14 {
+  width: 96px;
+  height: 29px;
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-16 {
+  width: 290px;
+  height: 49px;
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-18 {
+  width: 141px;
+  height: 40px;
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-19 {
+  width: 297px;
+  height: 63px;
+  color: #000000;
+  font-size: 36px;
+  font-family: Inter, "Semi Bold";
+  font-weight: 600;
+  text-align: left;
+  vertical-align: top;
+}
+```
+```
+page 4
+<div class="container--0-">
+<img src="Screenshot 2024-12-20 113350.png">
+.container--0- {
+  position: absolute;
+  left: 461px;
+  top: -635px;
+  width: 442px;
+  height: 954px;
+  background-color: #ffffff;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-2 {
+  width: 399px;
+  height: 275px;
+  color: #000000;
+  font-size: 32px;
+  font-family: Inter, "Semi Bold";
+  font-weight: 600;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-3 {
+  width: 312px;
+  height: 315px;
+  color: #000000;
+  font-size: 36px;
+  font-family: Inter, "Medium";
+  font-weight: 500;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-4 {
+  width: 448px;
+  height: 104px;
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter, "Medium";
+  font-weight: 500;
+  text-align: left;
+  vertical-align: top;
+}
+```
+
+
+
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/e35a440e-b5ae-4168-916c-a0c859dc4a62)
+
+![image](https://github.com/user-attachments/assets/f10e4a7a-45ac-45b8-93e2-3252a0cebd0a)
+
+![image](https://github.com/user-attachments/assets/0c03d499-6520-47bd-8444-9205b8671967)
+
+![image](https://github.com/user-attachments/assets/3474fdd9-7304-4e84-9839-52a2a22d2afa)
+
+![image](https://github.com/user-attachments/assets/ed9664f6-0e16-4149-a1eb-c9d971e9bcba)
+
+
+
 
 
 ## RESULT:
